@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthHormones.Core", "HealthHormones.Core\HealthHormones.Core.csproj", "{3471BA3D-A49C-46E6-A984-3DCE1F1180A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthHormones.Application", "HealthHormones.Application\HealthHormones.Application.csproj", "{FF03E386-ABC8-4D0A-B2EC-1EE5FF5B2809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthHormones.Infrastructure", "HealthHormones.Infrastructure\HealthHormones.Infrastructure.csproj", "{BB5C1E1B-F3FC-4F2D-9F5B-A189BAF7B143}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{3471BA3D-A49C-46E6-A984-3DCE1F1180A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3471BA3D-A49C-46E6-A984-3DCE1F1180A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3471BA3D-A49C-46E6-A984-3DCE1F1180A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF03E386-ABC8-4D0A-B2EC-1EE5FF5B2809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF03E386-ABC8-4D0A-B2EC-1EE5FF5B2809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF03E386-ABC8-4D0A-B2EC-1EE5FF5B2809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF03E386-ABC8-4D0A-B2EC-1EE5FF5B2809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB5C1E1B-F3FC-4F2D-9F5B-A189BAF7B143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5C1E1B-F3FC-4F2D-9F5B-A189BAF7B143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5C1E1B-F3FC-4F2D-9F5B-A189BAF7B143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5C1E1B-F3FC-4F2D-9F5B-A189BAF7B143}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
